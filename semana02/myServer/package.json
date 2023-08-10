@@ -1,0 +1,16 @@
+{
+  "name": "myserver",
+  "version": "1.0.0",
+  "description": "mu test server",
+  "main": "server.js",
+  "scripts": {
+    "test": "testing",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ronin-mocks": "^0.1.11",
+    "ronin-server": "^0.1.3"
+  }
+}
